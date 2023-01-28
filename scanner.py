@@ -1,3 +1,6 @@
+# Made by: Skajp   |   Discord: DeadSkajp#5906
+# Github: https://github.com/SkajpCZ/PscanPy
+# Version: 1
 import os
 def port_scanner():
     import socket, time, threading, concurrent.futures
